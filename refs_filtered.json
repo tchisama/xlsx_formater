@@ -1,0 +1,1780 @@
+{
+  "TELEPHONE": [
+    "TEL",
+    null
+  ],
+  "undefined": [
+    null,
+    "ROU"
+  ],
+  "Iphone X et XS": [
+    "IPHXXS",
+    "IPX"
+  ],
+  "Iphone XS max": [
+    "IPHXSM",
+    "PHXSM",
+    "IPXSM"
+  ],
+  "Iphone 4 et 4S": [
+    "IP4",
+    "SOXA1U"
+  ],
+  "Samsung S23": [
+    "SAS23",
+    "SAMS23"
+  ],
+  "Samsung Z Fold 5": [
+    "SAZFOLD5",
+    "SAMZF5"
+  ],
+  "Samsung S9 plus": [
+    "SAS9P",
+    "S9P",
+    "SAMS9P"
+  ],
+  "Samsung S9": [
+    "SAS9",
+    "S9",
+    "SAMS9"
+  ],
+  "Samsung S8": [
+    "SAS8",
+    "S8",
+    "SAMS8"
+  ],
+  "Samsung S10 plus": [
+    "SAS10P",
+    "SAMS10P"
+  ],
+  "Samsung S6": [
+    "SAS6",
+    "SAMS6"
+  ],
+  "Samsung S5": [
+    "SAS5",
+    "SAMS5"
+  ],
+  "Samsung S5 mini": [
+    "SAS5M",
+    "SAMS5M"
+  ],
+  "Samsung S8 plus": [
+    "SAS8P",
+    "S8P",
+    "SAMS8P"
+  ],
+  "Samsung S10": [
+    "SAS10",
+    "S10",
+    "SAMS10"
+  ],
+  "Samsung S21": [
+    "SAS21",
+    "SAMS21"
+  ],
+  "Samsung S22": [
+    "SAS22",
+    "SAMS22"
+  ],
+  "Samsung Z Flip 5": [
+    "SAZFLIP5",
+    "SAMZFL5",
+    "SAMZFI5"
+  ],
+  "Samsung S24": [
+    "SAS24",
+    "SAMS24"
+  ],
+  "Samsung S10 5G": [
+    "SAS105G",
+    "SAMS105G"
+  ],
+  "Samsung S20": [
+    "SAS20",
+    "SAMS20"
+  ],
+  "Samsung S20 plus": [
+    "SAS20P",
+    "SAMS20P"
+  ],
+  "Samsung S20 ultra": [
+    "SAS20U",
+    "SAMS20U"
+  ],
+  "Samsung A3 2016": [
+    "SAA32016",
+    "SAMA32016"
+  ],
+  "Samsung A3 2017": [
+    "SAA32017",
+    "SAMA32017"
+  ],
+  "Samsung A5 2017": [
+    "SAA52017",
+    "SAMA52017"
+  ],
+  "Samsung A6": [
+    "SAA6",
+    "SAMA6"
+  ],
+  "Samsung A6 plus": [
+    "SAA6P",
+    "SAMA6P"
+  ],
+  "Samsung A7 2018": [
+    "SAA72018",
+    "SAMA72018"
+  ],
+  "Samsung A8": [
+    "SAA8",
+    "SAMA8"
+  ],
+  "Samsung A9 2018": [
+    "SAA92018",
+    "SAMA92018"
+  ],
+  "Samsung A10": [
+    "SAA10",
+    "SAMA10"
+  ],
+  "Samsung A20E": [
+    "SAA20E",
+    "SAMA20E"
+  ],
+  "Samsung A40": [
+    "SAA40",
+    "SAMA40"
+  ],
+  "Samsung A50": [
+    "SAA50",
+    "SAMA50"
+  ],
+  "Samsung A51": [
+    "SAA51",
+    "SAMA51"
+  ],
+  "Samsung A60": [
+    "SAA60",
+    "SAMA60"
+  ],
+  "Samsung A70": [
+    "SAA70",
+    "SAMA70"
+  ],
+  "Samsung A71": [
+    "SAA71",
+    "SAMA71"
+  ],
+  "Samsung A80": [
+    "SAA80",
+    "SAMA80"
+  ],
+  "Samsung J2 pro 2018": [
+    "SAJ2P2018",
+    "SAMJ2P2018"
+  ],
+  "Samsung J3 2016": [
+    "SAJ32016",
+    "SAMJ32016"
+  ],
+  "Samsung J3 2017": [
+    "SAJ32017",
+    "SAMJ32017"
+  ],
+  "Samsung J4": [
+    "SAJ4",
+    "SAMJ4"
+  ],
+  "Samsung J4 plus": [
+    "SAJ4P",
+    "SAMJ4P"
+  ],
+  "Samsung J5 2017": [
+    "SAJ52017",
+    "SAMJ52017"
+  ],
+  "Samsung J6": [
+    "SAJ6",
+    "SAMJ6"
+  ],
+  "Samsung J6 plus": [
+    "SAJ6P",
+    "SAMJ6P"
+  ],
+  "Samsung J7 2017": [
+    "SAJ72017",
+    "SAMJ72017"
+  ],
+  "Samsung Note 9": [
+    "SAN9",
+    "SAMN9"
+  ],
+  "Samsung Note 10": [
+    "SAN10",
+    "SAMN10"
+  ],
+  "Samsung Note 10 plus": [
+    "SAN10P",
+    "SAMN10P"
+  ],
+  "Samsung S6 edge": [
+    "SAS6E",
+    "SAMS6E"
+  ],
+  "Samsung S7 edge": [
+    "SAS7E",
+    "SAMS7E",
+    "SAMS6E"
+  ],
+  "Samsung A5 2016": [
+    "SAA52016",
+    "SAMA52016"
+  ],
+  "Samsung J5 2015": [
+    "SAJ52015",
+    "SAMJ52015"
+  ],
+  "Samsung J5 2016": [
+    "SAJ52016",
+    "SAMJ52016"
+  ],
+  "Samsung Note 3": [
+    "SAN3",
+    "SAMN3"
+  ],
+  "Samsung Note 4": [
+    "SAN4",
+    "SAMN4"
+  ],
+  "Samsung Note 8": [
+    "SAN8",
+    "SAMN8"
+  ],
+  "Samsung S7": [
+    "SAS7",
+    "SAMS7"
+  ],
+  "Samsung S3 mini": [
+    "SAS3M",
+    "SAMS3M"
+  ],
+  "Samsung Note 2": [
+    "SAN2",
+    "SAMN2"
+  ],
+  "Samsung J3 2018": [
+    "SAJ32018",
+    "SAMJ32017"
+  ],
+  "Samsung Note 10 lite": [
+    "SAN10L",
+    "SAMN10L"
+  ],
+  "Samsung A41": [
+    "SAA41",
+    "SAMA41"
+  ],
+  "Samsung A10S": [
+    "SAA10S",
+    "SAMA10S"
+  ],
+  "Samsung A21S": [
+    "SAA21S",
+    "SAMA21S"
+  ],
+  "Samsung A51 5G": [
+    "SAA515G",
+    "SAMA515G"
+  ],
+  "Samsung A01": [
+    "SAA01",
+    "SAMA01"
+  ],
+  "Samsung A71 5G": [
+    "SAA715G",
+    "SAMA315G",
+    "SAMA715G"
+  ],
+  "Samsung Note 20": [
+    "SAN20",
+    "SAMN20"
+  ],
+  "Samsung Note 20 ultra": [
+    "SAN20U",
+    "SAMN20U"
+  ],
+  "Samsung A31": [
+    "SAA31",
+    "SAMA31"
+  ],
+  "Samsung A42 5G": [
+    "SAA425G",
+    "SAMA425G"
+  ],
+  "Samsung S20 fe": [
+    "SAS20FE",
+    "SAMS20FE"
+  ],
+  "Samsung S21 plus": [
+    "SAS21P",
+    "SAMS21P"
+  ],
+  "Samsung A12": [
+    "SAA12",
+    "SAMA12"
+  ],
+  "Samsung A32 5G": [
+    "SAA325G",
+    "SAMA325G"
+  ],
+  "Samsung A52S et A52 5G": [
+    "SAA52S",
+    "SAMA52SA52S5G"
+  ],
+  "Samsung A32 4G": [
+    "SAA324G",
+    "SAMA324G"
+  ],
+  "Samsung A22 5G": [
+    "SAA225G",
+    "SAMA22",
+    "SAMA225G"
+  ],
+  "Samsung A22 4G": [
+    "SAA224G",
+    "SAMA224G"
+  ],
+  "Samsung S21 fe": [
+    "SAS21FE",
+    "SAMS21FE"
+  ],
+  "Samsung A20S": [
+    "SAA20S",
+    "SAMA20S"
+  ],
+  "Samsung A02S": [
+    "SAA02S",
+    "SAMA02S"
+  ],
+  "Samsung Z Flip 3": [
+    "SAZFLIP3",
+    "SAMZF3"
+  ],
+  "Samsung Z Fold 3": [
+    "SAZFOLD3",
+    "SAMZF3"
+  ],
+  "Samsung A33 5G": [
+    "SAA335G",
+    "SAMA335G"
+  ],
+  "Samsung A53 5G": [
+    "SAA535G",
+    "SAMA535G"
+  ],
+  "Samsung A13 5G": [
+    "SAA135G",
+    "SAMA135G"
+  ],
+  "Samsung S22 plus": [
+    "SAS22P",
+    "SAMS22P"
+  ],
+  "Samsung S22 ultra": [
+    "SAS22U",
+    "SAMS22U"
+  ],
+  "Samsung A72 5G": [
+    "SAA725G",
+    "SAMA725G"
+  ],
+  "Samsung Z Flip 4": [
+    "SAZFLIP4",
+    "SAMZF4"
+  ],
+  "Samsung Z Fold 4": [
+    "SAZFOLD4",
+    "SAMZF4",
+    "SAMZF5",
+    "SAMZF6",
+    "SAMZF7"
+  ],
+  "Samsung S23 plus": [
+    "SAS23P",
+    "SAMS23P"
+  ],
+  "Samsung A34 5G": [
+    "SAA345G",
+    "SAMA345G"
+  ],
+  "Samsung S23 Fe": [
+    "SAS23FE",
+    "SAMS23FE"
+  ],
+  "Samsung S24 plus": [
+    "SAS24P",
+    "SAMS24P"
+  ],
+  "Samsung A13": [
+    "SAA13",
+    "SAMA13"
+  ],
+  "Samsung A55 5G": [
+    "SAA555G",
+    "SAMA555G"
+  ],
+  "Samsung A35 5G": [
+    "SAA355G",
+    "SAMA355G"
+  ],
+  "Samsung A25 5G": [
+    "SAA255G",
+    "SAMA255G"
+  ],
+  "Xiaomi Mi 9": [
+    "XIM9",
+    "XIAM9"
+  ],
+  "Xiaomi Mi 9T": [
+    "XIMI9T",
+    "XIAM9T"
+  ],
+  "Xiaomi Mi 9T pro": [
+    "XIM9TP",
+    "XIAM9TP"
+  ],
+  "Xiaomi Mi A3": [
+    "XIMA3",
+    "XIAMA3"
+  ],
+  "Redmi 6": [
+    "RE6",
+    "RED6"
+  ],
+  "Redmi Note 7": [
+    "REN7",
+    "REDN7"
+  ],
+  "Redmi Note 8T": [
+    "REN8T",
+    "REDN8T"
+  ],
+  "Xiaomi Mi 9 lite": [
+    "XIM9L",
+    "XIAM9L"
+  ],
+  "Xiaomi Mi 9 se": [
+    "XIM9SE",
+    "XIAM9SE"
+  ],
+  "Redmi 5 plus": [
+    "RE5P",
+    "RED5P"
+  ],
+  "Redmi Note 8 pro": [
+    "REN8P",
+    "REDN8P"
+  ],
+  "Redmi 7A": [
+    "RE7A",
+    "RED6P",
+    "RED7A"
+  ],
+  "Xiaomi Mi A2 lite": [
+    "XIMA2L",
+    "XIAMA2L"
+  ],
+  "Redmi Note 8": [
+    "REN8",
+    "REDN8"
+  ],
+  "Pocophone F1": [
+    "POF1",
+    "POCF1"
+  ],
+  "Redmi Note 9S": [
+    "REN9S",
+    "REDN9S"
+  ],
+  "Redmi 8A": [
+    "RE8A",
+    "RED8A"
+  ],
+  "Redmi Note 9": [
+    "REN9",
+    "REDN9"
+  ],
+  "Redmi 9": [
+    "RE9",
+    "RED9"
+  ],
+  "Xiaomi Mi Note 10 lite": [
+    "XIMN10L",
+    "XIAMN10L"
+  ],
+  "Redmi 9A": [
+    "RE9A",
+    "RED9A"
+  ],
+  "Xiaomi Mi 10 lite": [
+    "XIMI10L",
+    "XIAM10L"
+  ],
+  "Xiaomi Mi 10T": [
+    "XIM10T",
+    "XIAM10T"
+  ],
+  "Poco X3": [
+    "POX3",
+    "POCX3"
+  ],
+  "Xiaomi Mi 10T lite": [
+    "XIM10TL",
+    "XIAM10TL"
+  ],
+  "Redmi 9C": [
+    "RE9C",
+    "RED9C"
+  ],
+  "Xiaomi Mi 11": [
+    "XIM11",
+    "XIAM11"
+  ],
+  "Redmi Note 10": [
+    "REN10",
+    "REDN10"
+  ],
+  "Redmi 9T": [
+    "RE9T",
+    "RED9T"
+  ],
+  "Poco F3": [
+    "POF3",
+    "POCF3"
+  ],
+  "Xiaomi Mi 11 pro": [
+    "XIMI11P",
+    "XIM11P",
+    "XIAM11P"
+  ],
+  "Redmi Note 9T": [
+    "REN9T",
+    "REDN9T"
+  ],
+  "Redmi Note 10 pro": [
+    "REN10P",
+    "REDN10P"
+  ],
+  "Xiaomi Mi 11 lite": [
+    "XIM11L",
+    "XIAM11L"
+  ],
+  "Redmi Note 10 5G": [
+    "REN105G",
+    "REDN105G"
+  ],
+  "Redmi 10": [
+    "RE10",
+    "RED10"
+  ],
+  "Redmi Note 10S": [
+    "REN10S",
+    "REDN10S"
+  ],
+  "Xiaomi Mi 11i 5G": [
+    "XIM11I5G",
+    "XIAMI11I5G"
+  ],
+  "Xiaomi 12": [
+    "XI12",
+    "XIA12"
+  ],
+  "Xiaomi 12 pro": [
+    "XI12P",
+    "XIA12P"
+  ],
+  "Xiaomi 11T pro": [
+    "XI11TP",
+    "XIA11TP"
+  ],
+  "Redmi Note 11 et 11S 4G": [
+    "REN111",
+    "REDN1111S4G"
+  ],
+  "Redmi 10C": [
+    "RE10C",
+    "RED10C"
+  ],
+  "Redmi 12C": [
+    "RE12C",
+    "RED12C"
+  ],
+  "Oppo Reno 2": [
+    "OPR2",
+    "OPPR2"
+  ],
+  "Oppo Reno 2Z": [
+    "OPR2Z",
+    "OPPRE2Z"
+  ],
+  "Oppo Reno 3": [
+    "OPR3",
+    "OPPR3"
+  ],
+  "Oppo Reno Z": [
+    "OPRZ",
+    "OPPRZ"
+  ],
+  "Oppo Find X2 pro": [
+    "OPFX2P",
+    "OPPFX2P"
+  ],
+  "Oppo A53": [
+    "OPA53",
+    "OPPA53"
+  ],
+  "Oppo Find X3 pro": [
+    "OPFX3P",
+    "OPPFX3P"
+  ],
+  "Oppo Find X3 neo": [
+    "OPFX3N",
+    "OPPFX3N"
+  ],
+  "Oppo A16 4G et A16S": [
+    "OPA164G",
+    "OPPA164GA16S"
+  ],
+  "Oppo A15": [
+    "OPA15",
+    "OPPA15"
+  ],
+  "Oppo Reno 4Z": [
+    "OPR4Z",
+    "OPPR4Z"
+  ],
+  "Huawei P8 lite 2017": [
+    "HUP8L2017",
+    "HUAP8L2017"
+  ],
+  "Huawei P9": [
+    "HUP9",
+    "HUAP9"
+  ],
+  "Huawei P9 lite mini": [
+    "HUP9LM",
+    "HUAP9LM"
+  ],
+  "Huawei P20": [
+    "HUP20",
+    "HUAP20"
+  ],
+  "Huawei P20 lite": [
+    "HUP20L",
+    "HUAP20L"
+  ],
+  "Huawei P20 pro": [
+    "HUP20P",
+    "HUAP20P"
+  ],
+  "Huawei P30": [
+    "HUP30",
+    "HUAP30"
+  ],
+  "Huawei P30 lite": [
+    "HUP30L",
+    "HUAP30L"
+  ],
+  "Huawei Psmart 2019": [
+    "HUPS2019",
+    "HUAP2019"
+  ],
+  "Huawei Psmart Z": [
+    "HUPSZ",
+    "HUAPZ"
+  ],
+  "Huawei Mate S": [
+    "HUMS",
+    "HUAMS"
+  ],
+  "Huawei Mate 20": [
+    "HUM20",
+    "HUAM20"
+  ],
+  "Huawei Y5 2018": [
+    "HUY52018",
+    "HUAY52018"
+  ],
+  "Huawei Y5 2019": [
+    "HUY52019",
+    "HUAY52019"
+  ],
+  "Huawei Y6 2018": [
+    "HUY62018",
+    "HUAY62018"
+  ],
+  "Huawei Y6 2019": [
+    "HUY62019",
+    "HUAY62019"
+  ],
+  "Huawei Y7 2018": [
+    "HUY72018",
+    "HUAY72018"
+  ],
+  "Huawei Y7 2019": [
+    "HUY72018",
+    "HUAY72019"
+  ],
+  "Huawei Y9 2019": [
+    "HUY92019",
+    "HUAY92019"
+  ],
+  "Huawei Nova 5T": [
+    "HUN5T",
+    "HUAN5T"
+  ],
+  "Huawei P8": [
+    "HUP8",
+    "HUAP8"
+  ],
+  "Huawei P9 lite": [
+    "HUP9L",
+    "HUAP9L"
+  ],
+  "Huawei Mate 20 pro": [
+    "HUM20P",
+    "HUAM20P"
+  ],
+  "Huawei P30 pro": [
+    "HUP30P",
+    "HUAP309"
+  ],
+  "Huawei Psmart plus": [
+    "HUPSP",
+    "HUAPP"
+  ],
+  "Huawei Psmart plus 2019": [
+    "HUPSP2019",
+    "HUAP2019",
+    "HUAP92019"
+  ],
+  "Huawei Mate 10": [
+    "HUM10",
+    "HUAM10"
+  ],
+  "Huawei P8 lite": [
+    "HUP8L",
+    "HUAP8L"
+  ],
+  "Huawei P40 lite E": [
+    "HUP40LE",
+    "HUAP40LE"
+  ],
+  "Huawei P40 lite": [
+    "HUP40L",
+    "HUAP40L"
+  ],
+  "Huawei Y5 2017": [
+    "HUY52017",
+    "HUAY52017"
+  ],
+  "Huawei P40": [
+    "HUP40",
+    "HUAP40"
+  ],
+  "Huawei P40 pro": [
+    "HUP40P",
+    "HUAP40P"
+  ],
+  "Huawei Psmart 2020": [
+    "HUPS2020",
+    "HUAP2020"
+  ],
+  "Huawei Y5P": [
+    "HUY5P",
+    "HUAY5PLy5p",
+    "HUAY5P"
+  ],
+  "Huawei Y6P": [
+    "HUY6P",
+    "HUAY6P",
+    "HUAY6PL"
+  ],
+  "Huawei P40 lite 5G": [
+    "HUP40L5G",
+    "HUAP40L5G"
+  ],
+  "Huawei Psmart 2021": [
+    "HUPS2021",
+    "HUAP40L5G",
+    "HUP2021"
+  ],
+  "Honor 9 lite": [
+    "HO9L",
+    "HON9L"
+  ],
+  "Honor 10": [
+    "HO10",
+    "HON10"
+  ],
+  "Honor 20 pro": [
+    "HO20P",
+    "HON20P"
+  ],
+  "Honor 5X": [
+    "HO5X",
+    "HON5X"
+  ],
+  "Honor 6X": [
+    "HO6X",
+    "HON6X"
+  ],
+  "Honor 9": [
+    "HO9",
+    "HON9"
+  ],
+  "Honor 8C": [
+    "HO8C",
+    "HON8C"
+  ],
+  "Honor 9X lite": [
+    "HO9XL",
+    "HON9XL"
+  ],
+  "Vivo Y20S": [
+    "VIY20S",
+    "VIVY20S"
+  ],
+  "Vivo Y70": [
+    "VIY70",
+    "VIVY70"
+  ],
+  "Nokia 5": [
+    "NO5",
+    "NOK5"
+  ],
+  "Realme 8 et 8 pro": [
+    "RE8",
+    "REA88P"
+  ],
+  "Realme 8 5G": [
+    "RE85G",
+    "REA85G"
+  ],
+  "Realme C21": [
+    "REC21",
+    "REAC21"
+  ],
+  "Sony Xperia E4G": [
+    "SOXE4G",
+    "SONXE4G"
+  ],
+  "Sony XZ1": [
+    "SOXZ1",
+    "SOZ1"
+  ],
+  "Sony Xperia T3": [
+    "SNXT3",
+    "SONXT3"
+  ],
+  "Sony Xperia X compact": [
+    "SNXXC",
+    "SONXXC"
+  ],
+  "Sony Xperia XA2": [
+    "SNXXA2",
+    "SONXXA2"
+  ],
+  "Sony Xperia E3": [
+    "SOXE3",
+    "SONXE3"
+  ],
+  "Sony Xperia L2": [
+    "SOXL2",
+    "SONXL2"
+  ],
+  "Sony Xperia X": [
+    "SNXX",
+    "SONXX"
+  ],
+  "Sony Xperia XA2 ultra": [
+    "SNXXA2U",
+    "SONXXA2U"
+  ],
+  "Sony Xperia XZ2": [
+    "SOXXZ2",
+    "SONXXZ2"
+  ],
+  "Sony Xperia XA1 ultra": [
+    "SNXXA1U",
+    "SONXXA1Y"
+  ],
+  "Sony Xperia XZ premium": [
+    "SNXXZP",
+    "SONXXZP"
+  ],
+  "Sony Xperia XA1": [
+    "SNXXA1",
+    "SONXXA1"
+  ],
+  "Sony Xperia E1": [
+    "SOXE1",
+    "SONXE1"
+  ],
+  "Sony Xperia M4 aqua": [
+    "SOXM4A",
+    "SONXM4A"
+  ],
+  "Sony Xperia XA": [
+    "SNXXA",
+    "SONXXA"
+  ],
+  "Sony XZ3": [
+    "SOXZ3",
+    "SONXZ3"
+  ],
+  "Sony XZ2": [
+    "SOXZ2",
+    "SONXZ2"
+  ],
+  "Sony XA2": [
+    "SOXA2",
+    "SONXA2"
+  ],
+  "Sony Z3": [
+    "SOZ3",
+    "SONZ3"
+  ],
+  "Sony Z5": [
+    "SOZ5",
+    "SONZ5"
+  ],
+  "Sony Z4": [
+    "SOZ4",
+    "SONZ4"
+  ],
+  "Nokia 2.2": [
+    "NO22",
+    "NOK22"
+  ],
+  "Nokia 3": [
+    "NO3",
+    "NOK3"
+  ],
+  "Nokia 3.1": [
+    "NO31",
+    "NOK31"
+  ],
+  "Nokia 3.2": [
+    "NO32",
+    "NOK32"
+  ],
+  "Nokia 4.2": [
+    "NO42",
+    "NOK42"
+  ],
+  "Nokia 5.1": [
+    "NO51",
+    "NOK51"
+  ],
+  "Nokia 6.1 2018": [
+    "NO612018",
+    "NOK612018"
+  ],
+  "Nokia 7 plus": [
+    "NO7P",
+    "NOK7P"
+  ],
+  "Nokia 7.1": [
+    "NO71",
+    "NOK71"
+  ],
+  "Nokia 6": [
+    "NO6",
+    "NOK6"
+  ],
+  "Nokia 2.1": [
+    "NO21",
+    "NOK21"
+  ],
+  "Nokia 8.1": [
+    "NO81",
+    "NOK81"
+  ],
+  "Nokia Lumia 730": [
+    "NOL730",
+    "NOKL730"
+  ],
+  "Nokia 2.3": [
+    "NO23",
+    "NOK23"
+  ],
+  "Nokia 5.3": [
+    "NO53",
+    "NOK53"
+  ],
+  "Motorola One": [
+    "MOO",
+    "MOTONE"
+  ],
+  "Motorola Moto G5S": [
+    "MOMG5S",
+    "MOTMG5S"
+  ],
+  "Motorola Moto G8 plus": [
+    "MOMG8P",
+    "MOTMG8P"
+  ],
+  "Motorola Moto E20 et E30 et E40": [
+    "MOME20",
+    "MOTME20E30EE40"
+  ],
+  "HTC One M7": [
+    "HTOM7",
+    "HTCOM7"
+  ],
+  "HTC One M8": [
+    "HTOM8",
+    "HTCOM8"
+  ],
+  "Wiko Y50": [
+    "WIY50",
+    "WIKY50"
+  ],
+  "Wiko View 2": [
+    "WIV2",
+    "WIKV2"
+  ],
+  "Wiko View 2 plus": [
+    "WIV2P",
+    "WIKV2P"
+  ],
+  "Wiko View 2 pro": [
+    "WIV2PRO",
+    "WIKV2P"
+  ],
+  "Wiko View 3 pro": [
+    "WIV3P",
+    "WIKV3P"
+  ],
+  "Wiko View lite": [
+    "WIVL",
+    "WIKVL"
+  ],
+  "Wiko View prime": [
+    "WIVP",
+    "WIKVP"
+  ],
+  "Wiko Sunny 3": [
+    "WIS3",
+    "WIKS3"
+  ],
+  "Wiko Jerry 3": [
+    "WIJ3",
+    "WIKJ3"
+  ],
+  "Wiko Tommy 2 plus": [
+    "WIT2P",
+    "WIKT2P"
+  ],
+  "Wiko Tommy 3": [
+    "WIT3",
+    "WIKT3"
+  ],
+  "Wiko Lenny 4": [
+    "WIL4",
+    "WIKL4"
+  ],
+  "Wiko Lenny 5": [
+    "WIL5",
+    "WIKL5"
+  ],
+  "Wiko Freddy": [
+    "WIFR",
+    "WIKF"
+  ],
+  "Wiko Sunset 2": [
+    "WIS2",
+    "WIKS2"
+  ],
+  "Wiko View": [
+    "WIV",
+    "WIKV"
+  ],
+  "Wiko Wim": [
+    "WIW",
+    "WIKW"
+  ],
+  "Alcatel OneTouch Idol 3 5.5P": [
+    "ALOTI3",
+    "ALCOI3"
+  ],
+  "Samsung S3": [
+    "SAS3",
+    "SAMS3"
+  ],
+  "Samsung A5 2015": [
+    "SAA52015",
+    "SAMA52015"
+  ],
+  "Samsung S2": [
+    "SAS2",
+    "SAMS2"
+  ],
+  "Samsung S6 edge plus": [
+    "SAS6EP",
+    "SAMS6EP"
+  ],
+  "Samsung A04S": [
+    "SAA04S",
+    "SAMA04S"
+  ],
+  "Samsung A15": [
+    "SAA15",
+    "SAMA15"
+  ],
+  "Redmi Note 6 pro": [
+    "REN6P",
+    "REDN6P"
+  ],
+  "Redmi Note 10/Redmi Note 10S": [
+    "REN10",
+    "REDN10N10S"
+  ],
+  "Redmi note 12 pro 5G": [
+    "REN12P5G",
+    "REDN12P5G"
+  ],
+  "Oppo Find X2 lite": [
+    "OPFX2L",
+    "OPPFX2L"
+  ],
+  "Oppo Find X2 neo": [
+    "OPFX2N",
+    "OPPFX2N"
+  ],
+  "Oppo Reno 4 5G": [
+    "OPR45G",
+    "OPPR45G"
+  ],
+  "Oppo Reno 4 lite": [
+    "OPR4L",
+    "OPPR4L"
+  ],
+  "Oppo Find X3 lite": [
+    "OPFX3L",
+    "OPPFX3L"
+  ],
+  "Oppo Reno 4 pro": [
+    "OPR4P",
+    "OPPR4P"
+  ],
+  "Oppo A73 5G": [
+    "OPA735G",
+    "OPPA735G"
+  ],
+  "Huawei Nova": [
+    "HUN",
+    "HUAN"
+  ],
+  "Huawei Mate 9": [
+    "HUM9",
+    "HUAM9"
+  ],
+  "Huawei Y6 2": [
+    "HUY62",
+    "HUAY62"
+  ],
+  "Huawei P10": [
+    "HUP10",
+    "HUAP10"
+  ],
+  "Huawei G620s": [
+    "HUG620S",
+    "HUAG620s"
+  ],
+  "Huawei Mate 30 pro": [
+    "HUM30P",
+    "HUAM30P"
+  ],
+  "Huawei Y6S": [
+    "HUY6S",
+    "HUAY6S"
+  ],
+  "Honor 5C": [
+    "HO5C",
+    "HON5C"
+  ],
+  "Honor 6C": [
+    "HO6C",
+    "HON6C"
+  ],
+  "Honor 8 pro": [
+    "HO8P",
+    "HON8P"
+  ],
+  "Honor 8": [
+    "HO8",
+    "HON8"
+  ],
+  "Honor View 20": [
+    "HOV20",
+    "HONV20",
+    "HONV21"
+  ],
+  "Nokia 2": [
+    "NO2",
+    "NOK2"
+  ],
+  "Sony Xperia M5": [
+    "SNXM5",
+    "SONXM5"
+  ],
+  "Sony Xperia T2 ultra": [
+    "SNXT2U",
+    "SONXLT2"
+  ],
+  "Sony Xperia XA1 plus": [
+    "SNXXA1P",
+    "SONXXA1P"
+  ],
+  "Sony Xperia XZ1": [
+    "SOXXZ1",
+    "SONXXZ1"
+  ],
+  "Sony Xperia XZ": [
+    "SOXXZ",
+    "SONXXZ"
+  ],
+  "Sony Xperia L1": [
+    "SOXL1",
+    "SONXL1"
+  ],
+  "Sony Xperia L3": [
+    "SOXL3",
+    "SONXL3"
+  ],
+  "Sony Xperia 10 plus": [
+    "SOX10P",
+    "SONX10P"
+  ],
+  "Nokia 8 sirocco": [
+    "NO8S",
+    "NOK8S"
+  ],
+  "Nokia Lumia 1320": [
+    "NOL1320",
+    "NOKL1320"
+  ],
+  "Nokia Lumia 635": [
+    "NOL635",
+    "NOKL635"
+  ],
+  "Nokia 1": [
+    "NO1",
+    "NOK1"
+  ],
+  "Nokia 640": [
+    "NO640",
+    "NOK640"
+  ],
+  "Nokia 8.3": [
+    "NO83",
+    "NOK83"
+  ],
+  "Motorola Moto G6": [
+    "MOMG6",
+    "MOTMG6"
+  ],
+  "Motorola Moto E4": [
+    "MOME4",
+    "MOTME4"
+  ],
+  "HTC Desire 530": [
+    "HTD530",
+    "HTCD530"
+  ],
+  "HTC Desire 825": [
+    "HTD825",
+    "HTCD825"
+  ],
+  "HTC One A9": [
+    "HTOA9",
+    "HTCOA9"
+  ],
+  "HTC Desire 820": [
+    "HTD820",
+    "HTCD820"
+  ],
+  "HTC One M9": [
+    "HTOM9",
+    "HTCOM9"
+  ],
+  "Wiko View go": [
+    "WIVG",
+    "WIKVG"
+  ],
+  "Wiko Sunny 2": [
+    "WIS2",
+    "WIKS2"
+  ],
+  "Wiko Lenny 3": [
+    "WIL3",
+    "WIKL3"
+  ],
+  "Wiko Lenny 4 plus": [
+    "WIL4P",
+    "WIKL4P"
+  ],
+  "Wiko U feel Lite": [
+    "WIUFL",
+    "WIKUFL"
+  ],
+  "Wiko Harry": [
+    "WIHA",
+    "WIKH"
+  ],
+  "Wiko View max": [
+    "WIVM",
+    "WIKVM"
+  ],
+  "Wiko View XL": [
+    "WIVXL",
+    "WIKVXL"
+  ],
+  "Wiko Tommy 2": [
+    "WIT2",
+    "WIKT2"
+  ],
+  "Wiko Robby": [
+    "WIR",
+    "WIKR"
+  ],
+  "Wiko Jerry": [
+    "WIJE",
+    "WIKJ"
+  ],
+  "Wiko Harry 2": [
+    "WIH2",
+    "WIKH2"
+  ],
+  "Wiko Lenny": [
+    "WIL",
+    "WIKL"
+  ],
+  "Wiko Rainbow UP 4G": [
+    "WIRU4G",
+    "WIKRUP4G"
+  ],
+  "Wiko U feel Prime": [
+    "WIUFP",
+    "WIKUFP"
+  ],
+  "Wiko U pulse": [
+    "WIUP",
+    "WIKUP"
+  ],
+  "Wiko U pulse lite": [
+    "WIUPL",
+    "WIKUPL"
+  ],
+  "Wiko Rainbow": [
+    "WIR",
+    "WIKR"
+  ],
+  "Wiko Rainbow Jam 4G": [
+    "WIRJ4G",
+    "WIKRJ4G"
+  ],
+  "Wiko Sunset": [
+    "WIS",
+    "WIKS"
+  ],
+  "Wiko Sunny": [
+    "WIS",
+    "WIKS"
+  ],
+  "Wiko Pulp 4G": [
+    "WIP4G",
+    "WIKP4G"
+  ],
+  "Alcatel Pixi 4 6P": [
+    "ALP46P",
+    "ALCP46P"
+  ],
+  "___Iphone XR et 11": [
+    "IPHXR11",
+    "AXR3d0",
+    "IPHXR12",
+    "IPHXR13",
+    "IPHXR14",
+    "IPHXR15"
+  ],
+  "___Iphone 12 mini": [
+    "IPH12M",
+    "IPH121M",
+    "IPH121v"
+  ],
+  "___Iphone 12 et 12 pro": [
+    "IPH1212P",
+    "IPH121v"
+  ],
+  "___Iphone 13": [
+    "IPH13",
+    "IPH131"
+  ],
+  "___Iphone 14 pro": [
+    "IPH14P",
+    "IP14P"
+  ],
+  "___Iphone 14": [
+    "IPH14",
+    "IPH15",
+    "IPH16"
+  ],
+  "___Iphone 15 pro": [
+    "IPK15P",
+    "IPH15P",
+    "IP15P"
+  ],
+  "___Iphone 15": [
+    "IPK15",
+    "IPH15"
+  ],
+  "___Iphone 15 plus": [
+    "IPK15PL",
+    "IPH15PL",
+    "IP15PL",
+    "IPH15P"
+  ],
+  "_Apple watch": [
+    "APPW38",
+    "APPW41",
+    "APPW42",
+    "APPW45",
+    "APPW49",
+    "APPW40",
+    "APPW44"
+  ],
+  "Redmi 6A": [
+    "RED6P",
+    "RED6"
+  ],
+  "GUESS": [
+    "GUHCPXKASABK",
+    "GUHCPXPBUBE",
+    "GUHCPXPBURG",
+    "GUHCPXESPBBK",
+    "GUHCPXESPBRG",
+    "GUFLBKPX4GG",
+    "SKU",
+    "GUHCN58GLHFLSI",
+    "GUHCI8PCUMLLIGO",
+    "GUFLBKSPXCSCROBE",
+    "GUHCI8ESPBRG",
+    "GUHCZFD5GF4GBR",
+    "GUHCZFD5GF4GGR",
+    "GUHCS10LLSGLLP",
+    "GUHCS10LGF4GBR",
+    "GUHCS10LGF4GGR",
+    "GUFLBKPSESCOBE",
+    "GUFLBKP6SCOBE",
+    "GUFLBKP6TBK",
+    "GUFLBKS5SAC",
+    "GUFLBKS5SAB",
+    "GUFLBKS5SCCO",
+    "GUFLBKS5MCMB",
+    "GUFLBKS5MCRB",
+    "GUHCS23SHGGSHK",
+    "GUHCS23MHGGSHD",
+    "GUHCS23MHGGSHK",
+    "GUHCS23MGF4GGR",
+    "GUHCS23LGF4GGR",
+    "GUHCZF5GF4GBR",
+    "GUHCS23SHGGSHP",
+    "GUHC23LHGGSHP",
+    "GUFLBKSP12M4GB",
+    "GUFLBKSP12M4GG",
+    "GUBKP13L4GDBR",
+    "GUBKP13L4GDPI",
+    "GUBKP13L4GDGR",
+    "GUP2CRG",
+    "GUMFLP5SSOB",
+    "GUFLP5SAS",
+    "GUMFLBKP6TNA",
+    "GUFLBKP6LSCRE",
+    "GUFLBKP6LSCBK",
+    "GUFLBKP6LSCCO",
+    "GUFLBKSN614GB",
+    "GUFLBKSN584GB",
+    "GUFLBKSN58IGLRG",
+    "GUFLBKSN58IGLBK",
+    "GUFLBKSN584GG",
+    "GUFLBKP4STP"
+  ],
+  "BMW": [
+    "BMFLBKPXHEXBK",
+    "BMFLBKPXLLSB",
+    "BMFLBKI65LLSB",
+    "BMTRBKI65PUCARTCBK",
+    "SKU",
+    "BMHCS9CAPRBK",
+    "BMHCS9CAPNBK",
+    "BMFLBKS9HEXBK",
+    "BMHCS10LLLSB",
+    "BMHCS10LPUCARTCBK",
+    "BMTRBKI61PUCARTCBK",
+    "BMHCS9LLLST",
+    "BMFLBKS9LHHEXBK",
+    "BMHCS9LLLSB",
+    "BMHCS9LHEXBK",
+    "BMHCS9LCAPNBK",
+    "BMFLBKS9LLST",
+    "BMBKTRS9CAPRBK",
+    "BMHCS69MSILBK",
+    "BMHCS69SIVTBK",
+    "BMHCS69LLSB",
+    "BMHCS5MEB",
+    "BMHCS21SSIVTBK",
+    "BMHCS21MMSLBLBK",
+    "BMHCS21MSIVTBK",
+    "BMHCS21SSLLBK",
+    "BMHCS21FESLLBK",
+    "BMHCS23S22PTDK",
+    "BMHCS23S22NBCK",
+    "BMHCS23S22RDCK",
+    "BMHCS23M22PTDK",
+    "BMHCS23L22RDPK",
+    "BMHCS23L22NBCK",
+    "BMHCS22SSLLBK",
+    "BMHCZF5SLLBK",
+    "BMHCS24L23RCGPK",
+    "BMHCS24M22NBCK",
+    "BMHCS24M23RCGPK",
+    "BMHCS24S23RCGPK",
+    "BMHMS24S23PUDTK",
+    "BMBKP13MPUCARTCBK",
+    "BMBKP13LPUCARTCBK",
+    "BMBKS22STRTBK",
+    "BMBKS22MPUCARTCBK",
+    "BMFLBKSN58MCARBK",
+    "BMFLBKSN65MCARBK",
+    "BMFLHP4LB",
+    "BMFLHP4SN",
+    "BMFLBKS9LLLST",
+    "BMBKTRS9LCAPRBK"
+  ],
+  "FERRARI": [
+    "FEURFLBKI65REB",
+    "FEURFLBMI65BKR",
+    "FESACCSILSHBK",
+    "FESPIHCI8NA",
+    "FESPIHCI8YE",
+    "FEHDEHCS9LBK",
+    "FEHDEHCS9LRE",
+    "FEHDEHCS9RE",
+    "FEHQUHCS10LRE",
+    "FEHQUHCS10LBK",
+    "FEHDEFLBKS9LRE",
+    "FESULFLBKPXRE",
+    "FEHLEHCS9LGR",
+    "FESSIHCS69BK",
+    "FEHCAHCS69BK",
+    "FEHCP14LRMIK",
+    "FEHCP14LRMIR",
+    "FEHCP14SRBUK",
+    "FEHCP14MRBUK",
+    "FEHDEFLBKSN58RE",
+    "FEOVEFLBKSN58BK",
+    "FEHDEFLBKSN65RE",
+    "FEMTFLBKP4RE"
+  ],
+  "MERCEDES": [
+    "MEHCP7LWHCLWH",
+    "MEFLBKP7LWHCLWH",
+    "BMHCI8POCBK",
+    "MEHCS9THLNA",
+    "MEFLBKS9THLNA",
+    "MEFLBKI65THLNA",
+    "MEFLBKI61PCSBR",
+    "MEFLBKS9LTHLNA",
+    "MEFLBKS9LDCLBK",
+    "MEFLBKPXDCLBK",
+    "MEFLBKPXPCSBK",
+    "MEFLBKP6LEMSGR",
+    "SKU",
+    "MEHCS10LSILBK",
+    "MEHCS21SCLSSI",
+    "MEHCS21MARMBK",
+    "AMHCS23SBLSCA",
+    "AMHCS23MBLSCA",
+    "MEFLBKI65THLBK/MEFLBKI65THLNA",
+    "MEFLBKP7LWHCL"
+  ],
+  "US POLO": [
+    "USHCI8SLHRGN",
+    "USHCPXSLHRGN",
+    "USHCPXSLHRBK",
+    "USHCN58SLHRLB"
+  ],
+  "KARL LAGERFELD": [
+    "KLHCN58KCGLGO",
+    "KLHCS23SSNIKBCK",
+    "KLFLBKS8CL1BK",
+    "KLHCS10LKICKCSBK",
+    "KLFLBKS5QB",
+    "KLFLBKS5QS",
+    "KLHCS9KICKC",
+    "KLHCS21MKH3DBK",
+    "KLHCS23SSNCHBCK",
+    "KLHCZF5SAPKINPK",
+    "KLHCZFD5SAPKINPK",
+    "KLHCZF5SAKCNPK",
+    "KLHCZFD5SAKCNPK",
+    "KLHCZF5SAPCHNPK",
+    "KLHCMTG5LKSCH",
+    "KLBKN61SAKLHPK",
+    "KLBKP14SSAKLHPK",
+    "KLBKP14SSANKCPK",
+    "KLFLBKP12MSAKICKCBK",
+    "KLFLBKP12LIKMSBK",
+    "KLFLBKSN58FKICKC"
+  ],
+  "GENERIQUE": [
+    null,
+    "GE ",
+    "GE",
+    "AK"
+  ],
+  "AKSES": [
+    null,
+    "AK",
+    "AK ",
+    "AKS",
+    "ZE550ML",
+    "ZC520KL",
+    "ZC554KL",
+    "ZB552KL",
+    "ZB501KL",
+    "ZB555KL",
+    "ZE553KL",
+    "ZS630KL",
+    "ZE500KL",
+    "ZE500CL",
+    "ZB631KL"
+  ],
+  "LACOSTE": [
+    "LCHCS23SSLOU",
+    "LCHCS23MSLOU",
+    "LCHCS23LSLOU",
+    "LCHCS23SPVCK",
+    "LCHCS23MPVCK",
+    "LCHCS23LPVCK",
+    "LCHCS23SPVCN",
+    "LCHCS23MPVCN",
+    "LCHCS23LPVCN",
+    "LCHCZFD5PBSK",
+    "LCBKP15SPVCK",
+    "LCBKP15MPVCK",
+    "LCBKP15XPVCK",
+    "LCBKP15LPVCK"
+  ],
+  "ASUS": [
+    "ZE550ML",
+    "ZE550KL",
+    "ZE601KL",
+    "ZE520KL",
+    "ZC553KL",
+    "ZC554KL",
+    "ZD553KL",
+    "ZC600KL",
+    "ZB552KL",
+    "ZB553KL",
+    "SKU",
+    "ZE553KL",
+    "ZE500CL",
+    "ZE551ML",
+    "ZE554KL",
+    "ZC520KL",
+    "ZB501KL",
+    "ZD551KL",
+    "ZS630KL",
+    "ZC520TL",
+    "ZC551KL",
+    "ZB602KL",
+    "ZB634KL",
+    null
+  ],
+  "NOIR": [
+    "NOI",
+    " ",
+    null,
+    "MAU",
+    "ROS"
+  ],
+  "OR": [
+    "OR",
+    "GOL",
+    "NOI",
+    "BLE",
+    "TRA",
+    "ROU",
+    null,
+    "ARG"
+  ],
+  "ARGENT": [
+    "ARG",
+    "NOI"
+  ],
+  "VERT": [
+    "VER",
+    "ROS",
+    "VIO"
+  ],
+  "GOLD": [
+    "GOL",
+    null,
+    "NOI"
+  ],
+  "TRANSPARENT": [
+    "TRA",
+    "NOI",
+    "GRI",
+    "ROS",
+    "JAU",
+    "VER",
+    "ROU",
+    "BLE"
+  ],
+  "BLEU": [
+    "BLE",
+    "ROS",
+    "NOI",
+    "ROU",
+    "VIO",
+    "MAU",
+    "GRI",
+    "MAR",
+    null,
+    "OR"
+  ],
+  "VIOLET": [
+    "VIO",
+    "ROU",
+    "BLE",
+    "MAR",
+    "NOI",
+    "ROS",
+    "OR"
+  ],
+  "MARRON": [
+    "MAR",
+    "BLE",
+    null,
+    "NOI",
+    "VIO",
+    "ROU",
+    "ROS"
+  ]
+}
